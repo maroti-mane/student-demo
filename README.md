@@ -2,5 +2,5 @@
 This is my first Git Repository.
 <br>
 
-Author-Maruti Mane
+Author-(apna college)
 
